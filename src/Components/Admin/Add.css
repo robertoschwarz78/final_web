@@ -1,0 +1,18 @@
+
+
+.form-label {
+    /* background-color: #faa; */
+    color: #fff;
+    border: 5px;
+    margin: 5px;
+    transition-duration: 0.2s;
+    /* width: fit-content; */
+}
+
+input:required:valid {
+    background-color: #afa;
+}
+
+input:focus:invalid,input:required:invalid {
+    background-color: #faa;
+}

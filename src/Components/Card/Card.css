@@ -1,0 +1,127 @@
+
+
+#logo {
+    color: #f80;
+    font-weight: bold;
+}
+
+p {
+    color: #fff;
+    margin: 0px 5px;
+}
+
+h3 {
+    color: #fff;
+    margin: 5px 5px;
+}
+
+h4 {
+    background-color: #999;
+    padding: 4px
+}
+
+.carousel-inner {
+    padding: 15px;
+}
+
+.card{
+    background-color: #999;
+    border-radius: 8px;
+    max-width: 290px;
+    padding: 4px;
+    margin-top: 0px;
+    margin-bottom: 10px;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.card-body {
+    padding: 2px 0px;
+    margin: 10px 0px;
+    /* background-color: #fff;*/ 
+}
+
+.card-img-top {
+    max-width: 280px;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.card-text0 {
+    color: #000; 
+    font-size: 20px;
+    font-weight: bold;
+    /* background-color: #fff;  */
+}
+
+.card-text1 {
+    color: #00b;
+    font-weight: bold;
+    font-size: 16px;
+}
+
+.card-text2 {
+    color: #000; 
+    font-size: 16px;
+}
+
+.card-text3 {
+    color: #000; 
+    font-size: 16px;
+    font-weight: bold;
+    text-align: right;
+}
+
+.card-text4 {
+    color: #f00; 
+    font-size: 16px;
+    font-weight: bold;
+    text-align: right;
+}
+
+.card-text5 {
+    color: #fff; 
+    font-size: 16px;
+    font-weight: normal;
+    text-align: left;
+}
+
+.divisor {
+    font-size: 24px;
+    font-weight: bold;
+    text-shadow: 2px 2px #000;
+    margin: 20px 0px 10px 0px;
+    background-color: #f00;
+}
+
+.responsive {
+    max-width: 100%;
+    height: auto;
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.portada{
+    max-width: 960px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.mapa{
+    max-width: 825px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.btn-eliminar{
+    text-shadow: none;
+    border: none;
+}
+
+
+
+
+.list-group-item{
+    color: whitesmoke !important;
+    background-color: transparent !important;
+}

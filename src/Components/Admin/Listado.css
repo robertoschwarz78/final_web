@@ -1,0 +1,33 @@
+
+.tabla{
+    background-color: #888 !important;
+    border: 1px solid black;
+    border-color: #444;
+    color: #000;
+    border-radius: 2px;
+    padding: 4px;
+}
+
+td {
+    background-color: #fff;
+    border: 1px solid black;
+    border-color: #444;
+    color: #000;
+    border-radius: 2px;
+    padding: 4px;
+    text-align: left;
+
+}
+
+.h {
+    background-color: #8cf;
+    text-align: center;
+}
+
+.centrado {
+    text-align: center;
+}
+
+.derecha {
+    text-align: right;
+}
